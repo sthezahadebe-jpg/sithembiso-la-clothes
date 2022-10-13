@@ -1,1 +1,1 @@
-[LINK]("https://sthezahadebe-jpg.github.io/sithembiso-la-clothes")
+[LINK](https://sthezahadebe-jpg.github.io/sithembiso-la-clothes)
