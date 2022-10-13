@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sithembiso-la-clothes/static/css/main.073c9b0a.css",
+    "main.js": "/sithembiso-la-clothes/static/js/main.04ee15ef.js",
+    "index.html": "/sithembiso-la-clothes/index.html",
+    "main.073c9b0a.css.map": "/sithembiso-la-clothes/static/css/main.073c9b0a.css.map",
+    "main.04ee15ef.js.map": "/sithembiso-la-clothes/static/js/main.04ee15ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.04ee15ef.js"
+  ]
+}
